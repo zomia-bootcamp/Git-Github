@@ -28,7 +28,9 @@ To push your master branch to the remote repository, use the following command: 
 After finishing Ned Stark's story, you can start writing the beginning of another character's story. For example:
 
 ```text
-  Joffrey Baratheon was the one to do Ned in, but his story was only about to begin, and let me assure you he will DEFINITELY NOT DIE!
+  Joffrey Baratheon was the one to do Ned in, 
+  but his story was only about to begin, and let me assure you 
+  he will DEFINITELY NOT DIE!
 ```
 
 Remember to push the changes you made. To push the changes in your main branch, use the command `git push origin main`.
