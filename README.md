@@ -52,7 +52,11 @@ To update your local Git repository with the latest code from Git Enterprise, yo
 
 On Gith, you might have noticed a pencil button at the top of a page. This button allows you to edit the text and make changes directly on Github.
   
- 
+ ![gitHub-edit](https://user-images.githubusercontent.com/132401198/237059728-c407aa5c-f182-4bcd-9f81-0fc51d6666ca.png)
+  
+**Don't do that!** It's important to never edit files directly on Git Enterprise, even for small changes. Always make changes on your local computer and then push them to Git Enterprise.
+
+The reason for this is that if you edit files in the cloud, your local repository and Git Enterprise repository can get out of sync, which goes against the usual way of working.
 
 
  
